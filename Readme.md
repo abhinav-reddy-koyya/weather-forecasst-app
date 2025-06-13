@@ -37,5 +37,3 @@ This is a simple and responsive weather application built using HTML, CSS, and J
 1. Open `index.html` in your web browser.
 2. Enter a city name (e.g., London, New York, Mumbai) in the input box.
 3. Click the "Get Weather" button to fetch and display the weather data.
-
-### Example
